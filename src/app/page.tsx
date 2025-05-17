@@ -1,12 +1,12 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Home",
+  title: "ASMR",
   description:
     "Home content. Home content. Home content. Home content. Home content. Home content. ",
   alternates: { canonical: "/" },
   openGraph: {
-    title: "Home",
+    title: "ASMR",
     description:
       "Home content. Home content. Home content. Home content. Home content. Home content. Home content. Home content. ",
     images: [
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 const page = () => {
   return (
     <>
-      <h1>Home</h1>
+      <h1>ASMR by David Verhulst</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi,
         laudantium eos recusandae, optio pariatur necessitatibus provident eum
